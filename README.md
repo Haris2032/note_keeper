@@ -1,6 +1,7 @@
 # note_keeper
 
-A new Flutter application.
+A note keeper application built using flutter.
+This app uses SQlite database as it is a offline application 
 
 ## Getting Started
 

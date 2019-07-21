@@ -3,6 +3,12 @@
 - A note keeper application built using flutter.
 - This app uses SQlite database as it is a offline application 
 
+## Screen Shots
+
+<img src="Screenshot_1.png" width="200">
+
+<img src="Screenshot_2.png" width="200">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
